@@ -4,4 +4,31 @@
 
 button {
   margin-bottom: 20px;
+  background-color: rgb(238, 238, 238);
+  border: solid 1px black;
+  border-radius: 10%;
+  font-size: 15px;
+  padding: 3px;
+  cursor: pointer;
+}
+
+.edit-link {
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 10%;
+  text-decoration: none;
+  padding: 2px 5px;
+  background-color: rgb(238, 238, 238);
+  font-size: 15px;
+  color: black;
+}
+
+.product-list {
+  margin: 5px auto;
+  border-bottom: black dashed 1px;
+  width: 25%;
+}
+
+.edit-delete {
+  margin-top: 10px;
 }
